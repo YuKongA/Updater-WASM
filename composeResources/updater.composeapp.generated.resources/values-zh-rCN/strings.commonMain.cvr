@@ -1,4 +1,5 @@
 version:0
+string|about|5YWz5LqO
 string|account_or_password_empty|6LSm5Y+35oiW5a+G56CB5Li656m677yB
 string|account|6LSm5Y+3
 string|android_version|5a6J5Y2T54mI5pys
@@ -28,8 +29,9 @@ string|login_expired_desc|5bu66K6u6YeN5paw55m75b2V
 string|login_expired|55m75b2V5bey6L+H5pyf
 string|login_successful|55m75b2V5oiQ5Yqf
 string|login|55m75b2V
-string|logout_successful|55m75Ye65oiQ5Yqf
-string|logout|55m75Ye6
+string|logout_confirm|56Gu5a6a6KaB6YCA5Ye655m75b2V5LmI77yf
+string|logout_successful|6YCA5Ye65oiQ5Yqf
+string|logout|6YCA5Ye6
 string|no_account|5pyq55m75b2V
 string|opensource_info|54mI5p2D5omA5pyJIMKpIDIwMjQgWXVLb25nQSwgQWthbmVUYW4=
 string|password|5a+G56CB

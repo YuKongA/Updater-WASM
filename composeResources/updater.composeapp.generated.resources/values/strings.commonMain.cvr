@@ -1,4 +1,5 @@
 version:0
+string|about|QWJvdXQ=
 string|account_or_password_empty|QWNjb3VudCBvciBQYXNzd29yZCBlbXB0eSE=
 string|account|QWNjb3VudA==
 string|android_version|QW5kcm9pZCBWZXJzaW9u
@@ -29,6 +30,7 @@ string|login_expired_desc|UmVjb21tZW5kZWQgdG8gbG9naW4gYWdhaW4=
 string|login_expired|TG9naW4gZXhwaXJlZA==
 string|login_successful|TG9naW4gc3VjY2Vzc2Z1bA==
 string|login|TG9naW4=
+string|logout_confirm|QXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIGxvZ291dD8=
 string|logout_successful|TG9nb3V0IHN1Y2Nlc3NmdWw=
 string|logout|TG9nb3V0
 string|no_account|Tm8gYWNjb3VudA==
